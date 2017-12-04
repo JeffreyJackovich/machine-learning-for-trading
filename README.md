@@ -18,4 +18,4 @@ KNN and regression trees and how to apply them to actual stock trading situation
 
 
 <h2><strong>Course Source</strong></h2>
-<ul>I followed ,<a href="https://www.udacity.com/course/machine-learning-for-trading--ud501"> Machine Learning for Trading by Georgia Tech via Udacity</a>.
+<ul><a href="https://www.udacity.com/course/machine-learning-for-trading--ud501"> Machine Learning for Trading by Georgia Tech via Udacity</a>.
